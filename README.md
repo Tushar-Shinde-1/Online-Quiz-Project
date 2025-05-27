@@ -49,5 +49,8 @@ Make sure the Excel file (datasetpython.xlsx) is present in the same directory.
 
 Run the Python file:
 ```
+python quiz.py
 
+```
+Follow the on-screen instructions.
 
